@@ -6,7 +6,7 @@ PixelArray2E131.mapping = {
 	rows : require("./lib/mapping/rows.js"),
 	snake : require("./lib/mapping/snake.js"),
 	flipDiagonalFunction : require("./lib/mapping/flipDiagonalFunction.js"),
-	gryCols : require("./lib/mapping/gryCols.js")
+	gryCols : require("./lib/mapping/grycols.js")
 };
 
 module.exports = PixelArray2E131;

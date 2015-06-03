@@ -1,6 +1,6 @@
 {
   "name": "pixelarray2e131",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Send a pixel array over streaming ACN E1.31",
   "main": "index.js",
   "scripts": {
